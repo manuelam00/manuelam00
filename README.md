@@ -20,7 +20,7 @@
 ### Language
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/SQL_Image.svg/960px-SQL_Image.svg.png" width="45" height="45" alt="SQL"/>
-<img src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg" width="45" height="45" alt="Javascript"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="45" height="45" alt="Javascript"/>
 
 ### Visualization
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png" width="45" height="45" alt="Power BI"/>
