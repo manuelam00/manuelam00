@@ -12,17 +12,18 @@
 - ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-Analytics_Engineer_Associate-117865)
 - ![Tableau](https://img.shields.io/badge/Tableau-Certified_Consultant-E97627?logo=tableau&logoColor=white)
 - ![KNIME](https://img.shields.io/badge/KNIME-Collaboration_and_Productionization-FDD800?logo=knime&logoColor=black)
+- ![Alteryx](https://img.shields.io/badge/Alteryx-Designer_Advanced-0078C0?logo=alteryx&logoColor=white)
 - ![PRINCE2](https://img.shields.io/badge/PRINCE2-Certified-6B2C91)
 
 ## 🛠️ Languages and Tools
 
 ### Language
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://www.w3schools.com/sql/" width="45" height="45" alt="SQL"/>
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/SQL_Image.svg/960px-SQL_Image.svg.png" width="45" height="45" alt="SQL"/>
 <img src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg" width="45" height="45" alt="Javascript"/>
 
 ### Visualization
-<img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI"/>
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png" width="45" height="45" alt="Power BI"/>
 <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" width="45" height="45" alt="Tableau"/>
 
 ### Cloud / ETL
