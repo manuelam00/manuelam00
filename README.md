@@ -8,11 +8,11 @@
 
 ## 🏅 Certifications
 
-- ![Power BI](https://img.shields.io/badge/Power_BI-Data_Analyst_Associate-F2C811?logo=powerbi&logoColor=black)
-- ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-Analytics_Engineer_Associate-117865)
 - ![Tableau](https://img.shields.io/badge/Tableau-Certified_Consultant-E97627?logo=tableau&logoColor=white)
 - ![KNIME](https://img.shields.io/badge/KNIME-Collaboration_and_Productionization-FDD800?logo=knime&logoColor=black)
 - ![Alteryx](https://img.shields.io/badge/Alteryx-Designer_Advanced-0078C0?logo=alteryx&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power_BI-Data_Analyst_Associate-F2C811?logo=powerbi&logoColor=black)
+- ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-Analytics_Engineer_Associate-117865)
 - ![PRINCE2](https://img.shields.io/badge/PRINCE2-Certified-6B2C91)
 
 ## 🛠️ Languages and Tools
